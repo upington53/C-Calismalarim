@@ -16,7 +16,7 @@ main(){
 		printf("\nLutfen en yakin nufus dairesine gidiniz.");
 		}
 	else {
-		printf("Sayin %s %s, ehliyet alabilmek için yasiniz tutmuyordur.",isim,soyisim);
+		printf("Sayin %s %s, ehliyet alabilmek iÃ§in yasiniz tutmuyordur.",isim,soyisim);
 	}
 	return 0;
 }
